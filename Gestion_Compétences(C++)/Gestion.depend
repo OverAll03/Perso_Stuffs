@@ -1,0 +1,206 @@
+# depslib dependency file v1.0
+1670139484 source:c:\users\hp\documents\cpp_project\gestion\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"function.h"
+
+1670159644 h"
+
+1670139415 c:\users\hp\documents\cpp_project\gestion\function.h
+	<string>
+	<vector>
+	"category.h"
+
+1670159464 source:c:\users\hp\documents\cpp_project\gestion\function.cpp
+	<fstream>
+	<string>
+	<vector>
+	<iostream>
+	"function.h"
+	"pro.h"
+	"category.h"
+	"pfl.h"
+	"cpt.h"
+
+1670159669 source:c:\users\hp\documents\cpp_project\gestion\src\pro.cpp
+	"pro.h"
+	<string>
+	<vector>
+	"category.h"
+	<iostream>
+
+1670197548 
+
+1670159644 c:\users\hp\documents\cpp_project\gestion\include\pro.h
+	<string>
+	<vector>
+	"pfl.h"
+	"category.h"
+
+1670159662 source:c:\users\hp\documents\cpp_project\gestion\src\pfl.cpp
+	"pfl.h"
+	"category.h"
+	<iostream>
+
+1670159644 c:\users\hp\documents\cpp_project\gestion\include\pfl.h
+	<string>
+	<vector>
+	"category.h"
+
+1670199612 source:c:\users\hp\documents\cpp_project\gestion\src\category.cpp
+	"category.h"
+	"pro.h"
+	"pfl.h"
+	"cpt.h"
+	<string>
+	<vector>
+
+1670197548 c:\users\hp\documents\cpp_project\gestion\include\category.h
+	<string>
+	<vector>
+
+1670159656 source:c:\users\hp\documents\cpp_project\gestion\src\cpt.cpp
+	"cpt.h"
+	<string>
+	<vector>
+	<iostream>
+
+1670159644 c:\users\hp\documents\cpp_project\gestion\include\cpt.h
+	<string>
+	<vector>
+	"category.h"
+
+1670247974 source:/home/overlord/Cpp_Project/Gestion/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"function.h"
+	"category.h"
+	"pro.h"
+	"pfl.h"
+
+1670245079 /home/overlord/Cpp_Project/Gestion/function.h
+	<string>
+	<vector>
+	"category.h"
+	"pro.h"
+	"pfl.h"
+	"cpt.h"
+
+1670247239 source:/home/overlord/Cpp_Project/Gestion/function.cpp
+	<fstream>
+	<string>
+	<vector>
+	<iostream>
+	"function.h"
+	"pro.h"
+	"category.h"
+	"pfl.h"
+	"cpt.h"
+
+1670247239 source:c:\cpp_project\gestion\function.cpp
+	<fstream>
+	<string>
+	<vector>
+	<iostream>
+	"function.h"
+	"pro.h"
+	"category.h"
+	"pfl.h"
+	"cpt.h"
+
+1670245079 c:\cpp_project\gestion\function.h
+	<string>
+	<vector>
+	"category.h"
+	"pro.h"
+	"pfl.h"
+	"cpt.h"
+
+1670247974 source:c:\cpp_project\gestion\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"function.h"
+	"category.h"
+	"pro.h"
+	"pfl.h"
+
+1670964630 source:c:\users\over_all\documents\cpp_project\gestion\function.cpp
+	<fstream>
+	<string>
+	<vector>
+	<iostream>
+	"function.h"
+	"pro.h"
+	"category.h"
+	"pfl.h"
+	"cpt.h"
+	<algorithm>
+
+1670926727 c:\users\over_all\documents\cpp_project\gestion\function.h
+	<string>
+	<vector>
+	"category.h"
+	"pro.h"
+	"pfl.h"
+	"cpt.h"
+
+1670926725 source:c:\users\over_all\documents\cpp_project\gestion\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"function.h"
+	"category.h"
+	"pro.h"
+	"pfl.h"
+
+1670245079 source:c:\users\over_all\documents\cpp_project\gestion\function.h
+	<string>
+	<vector>
+	"category.h"
+	"pro.h"
+	"pfl.h"
+	"cpt.h"
+
+1670320327 c:\users\over_all\documents\cpp_project\gestion\include\pfl.h
+	<string>
+	<vector>
+	"category.h"
+
+1670320292 source:c:\users\over_all\documents\cpp_project\gestion\src\pfl.cpp
+	"pfl.h"
+	"category.h"
+	<iostream>
+
+1670795471 c:\users\over_all\documents\cpp_project\gestion\include\category.h
+	<string>
+	<vector>
+
+1670320762 c:\users\over_all\documents\cpp_project\gestion\include\pro.h
+	<string>
+	<vector>
+	"pfl.h"
+	"category.h"
+
+1670321010 c:\users\over_all\documents\cpp_project\gestion\include\cpt.h
+	<string>
+	<vector>
+	"category.h"
+
+1670911266 source:c:\users\over_all\documents\cpp_project\gestion\src\pro.cpp
+	"pro.h"
+	<string>
+	<vector>
+	"category.h"
+	<iostream>
+
+1670861891 source:c:\users\over_all\documents\cpp_project\gestion\src\category.cpp
+	"category.h"
+	"pro.h"
+	"pfl.h"
+	"cpt.h"
+	<string>
+	<vector>
+
