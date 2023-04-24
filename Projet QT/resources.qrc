@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/profile.jpg</file>
+        <file>images/skill.jpg</file>
+        <file>images/pro.jpg</file>
+        <file>images/pro.jpeg</file>
+        <file>images/pfl.webp</file>
+        <file>images/cpt.jpeg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>test.db</file>
+        <file>icons/search.png</file>
+        <file>icons/reset.png</file>
+        <file>icons/reinit.png</file>
+        <file>icons/import.png</file>
+        <file>icons/export.png</file>
+        <file>icons/dbadmin.png</file>
+        <file>icons/skill-manage.png</file>
+        <file>icons/get-started.png</file>
+        <file>icons/pro.png</file>
+        <file>icons/pfl.png</file>
+        <file>icons/cpt.png</file>
+    </qresource>
+</RCC>
